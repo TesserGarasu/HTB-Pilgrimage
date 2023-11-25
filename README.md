@@ -1,2 +1,2 @@
-# HTB-Pilgrimage-
+# HTB-Pilgrimage
 HTB-Pilgrimage WriteUp/Report example (Spanish)
